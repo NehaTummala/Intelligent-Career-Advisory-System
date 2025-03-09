@@ -1,5 +1,5 @@
 ```markdown
-# Career Guidance Bot 🤖
+# **Career Guidance Bot** 🤖
 
 A RAG-powered career advisory system leveraging OpenAI GPT-4 and Pinecone vector search
 
